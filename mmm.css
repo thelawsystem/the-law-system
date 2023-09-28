@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+body{
+    height: 9000px;
+    width: 95%;
+    background-color: rgba(234, 223, 153, 0.932);
+}
+.box{
+    height: 9000px;
+    width: 95%;
+    /* background-color: rgb(21, 240, 222); */
+    padding-left: 40px;
+    margin-left: 40px;
+    
+    
+}
+li{
+    padding-top: 20px;
+}
